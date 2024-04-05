@@ -1,2 +1,2 @@
-# DL-SC4740
+# DL-CS4740
 CS4740 - Course work on Deep Learning for MSc AI students: Aston University
